@@ -11,13 +11,14 @@ Navigate to any Linux environment installed on the system or installed inside a 
 Write the C Program using Linux IO Systems locking
 ### Step 3:
 Execute the C Program for the desired output. 
+
+```
+
+DEVELOPED BY: Aishwarya S
+
+REG NO: 212222100003
+```
 ## PROGRAM:
-```
-
-## DEVELOPED BY: Aishwarya S
-
-## REG NO: 212222100003
-```
 ## 1.To Write a C program that illustrates files copying 
 ```
 #include <unistd.h>
